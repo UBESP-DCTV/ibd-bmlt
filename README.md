@@ -16,8 +16,6 @@ install.packages(
 
 The project is organized as follows:
 
-The folder is organized as follows:
-
 - The file _ibd_bmlt.Rproj_ is the file of the Rstudio project.
 
 - The folder _data_ contains the following files:
